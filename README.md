@@ -1,10 +1,10 @@
-# GitHub Action: Packer
+# GitHub Action: Packer + Ansible
 
 > GitHub Action for running Packer [commands](https://www.packer.io/docs/commands).
 
 ## Table of Contents
 
-- [GitHub Action: Packer](#github-action-packer)
+- [GitHub Action: Packer + Ansible](#github-action-packer--ansible)
   - [Table of Contents](#table-of-contents)
   - [Usage](#usage)
     - [Inputs](#inputs)
@@ -131,7 +131,7 @@ To set `PACKER_LOG=1`, simply define the environment variable in the step config
 
 ## Author Information
 
-This module is maintained by the contributors listed on [GitHub](https://github.com/hashicorp/packer-github-actions/graphs/contributors).
+This module is maintained by the contributors listed on [GitHub](https://github.com/hashicorp/packer-github-actions/graphs/contributors). It has been forked by Burkey to append ansible to the Packer Dockerfile.
 
 Development of this module was sponsored by [Operate Happy](https://github.com/operatehappy).
 
