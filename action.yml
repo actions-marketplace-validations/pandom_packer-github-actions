@@ -1,7 +1,7 @@
 ---
 
-name: Packer GitHub Actions
-author: Kerim Satirli <kerim@operatehappy.com>
+name: Packer GitHub Actions with Ansible!
+author: Burkey burkey@hashic....com
 description: Run Packer commands
 
 inputs:
